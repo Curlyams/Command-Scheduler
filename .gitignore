@@ -2,8 +2,8 @@
 **/.env/
 
 # Ignore Python cache files
-__pycache__/
+**/__pycache__/
 *.py[cod]
 
 # Ignore the virtual environment directory
-kljkl/
+**/ffenv/
